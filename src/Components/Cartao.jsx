@@ -1,6 +1,6 @@
 import React from "react";
 import './Cartao.css';
-import logo1 from "../assets/joao silva.jpg"
+import logo1 from "../assets/joao.jpg"
 function Cartao(){
     return( 
         <div className="business-card">
